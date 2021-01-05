@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+   font-size: 100px;
+   font-weight: bold;
+   color: khaki;
+   background-image: url(./pattern.webp); 
+   text-align: center;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.mediumspringgreen{
+    background-color: mediumspringgreen;
+}
+.lightcoral{
+    background-color: lightcoral;
+}
+.skyblue{
+    background-color: skyblue;
+}
+.bold_blue{
+    color: rgb(161, 161, 223);
+    font-weight: bold;
+}
